@@ -111,7 +111,7 @@ function Home() {
             }
             {
                 !searchKey && data.length == 0 &&
-                <div>Loading...</div>
+                <h3>Loading...</h3>
             }
 
 
